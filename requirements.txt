@@ -8,3 +8,10 @@ matplotlib
 pyyaml
 scikit-learn
 pillow
+scipy
+seaborn
+thop
+tqdm
+tensorboard
+gitpython
+setuptools<81
